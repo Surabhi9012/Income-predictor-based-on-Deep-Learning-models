@@ -34,12 +34,11 @@ mdurl==0.1.2
 ml-dtypes==0.4.1
 namex==0.0.8
 narwhals==1.14.2
-numpy==2.0.2
+numpy==1.25.0  # Corrected version
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.2
 pandas==2.2.3
-python==3.10
 pillow==11.0.0
 protobuf==5.28.3
 pyarrow==18.0.0
@@ -77,5 +76,5 @@ xgboost==1.7.6
 lightgbm==3.3.5 
 catboost==1.2.7 
 scikit-learn==1.2.2 
-torch==2.2.2 
+torch==2.1.0  # Adjusted version
 bayesian-optimization==1.4.0
