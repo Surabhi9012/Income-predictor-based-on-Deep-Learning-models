@@ -59,7 +59,6 @@ smmap==5.0.1
 streamlit==1.40.1
 tenacity==9.0.0
 tensorboard==2.18.0
-tensorflow-intel==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 termcolor==2.5.0
