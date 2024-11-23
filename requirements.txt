@@ -50,7 +50,6 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.4
 rpds-py==0.21.0
-scikit-learn==1.5.2
 scipy==1.14.1
 seaborn==0.13.2
 setuptools==75.6.0
@@ -75,8 +74,7 @@ wrapt==1.17.0
 xgboost==1.7.6
 xgboost==1.7.6
 lightgbm==3.3.5
-catboost==1.1.1
-scikit-learn==1.2.2
 torch==2.0.1
 bayesian-optimization==1.4.0
-
+catboost==1.2.7 
+scikit-learn==1.2.2 
