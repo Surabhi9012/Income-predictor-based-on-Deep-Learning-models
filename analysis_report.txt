@@ -1,0 +1,19 @@
+
+Income Data Analysis Report
+
+1. Dataset Overview:
+   - Total samples: 32561
+   - Features processed: 108
+   - Training set size: 26048
+   - Test set size: 6513
+
+2. Visualizations:
+   - Correlation Heatmap: correlation_heatmap.png
+   - Numeric Distributions: numeric_distributions.png
+   - Categorical Distributions: categorical_distributions.png
+   - Dimensionality Reduction: dimensionality_reduction.png
+   - Feature Importance: feature_importance.png
+
+3. Insights:
+   - PCA explained variance: 0.26
+
